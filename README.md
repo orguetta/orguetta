@@ -4,6 +4,7 @@
 
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Cloud security and devsecops
+-  🤖 I love DIY projects 😁
 - 📫 How to reach me in twitter
 
 <!---
