@@ -15,26 +15,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orguetta/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Guetta_or)
 
-
-# Hi, I'm Tomer Klein
-
-## I'm a Fullstack developer, IT Manager and DevOps engineer
-* 🌱 I’m currently learning Kubernetes and Flutter.
-* 🐳 I'm currently working on developing Docker containers 😁
-* 🏠 I love to contribute to Home automation projects 😁
-* 🤖 I love electronics and DIY projects 😁
-* 🥅 2022 Goals: Contribute to Open Source projects
-* 💬 Ask me about anything, I am happy to help 😄
-* 🧗 I try to: Go beyond and push the bounds
-* ⚡ Fun fact: I love connecting with different people 🙌 
-
-## Connect with me
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tomer.klein@gmail.com)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/tomer.klein)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomer-klein-4bb8ab24/)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/507656855770628115/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/tomerklein)
-
 ## Tech Knowledge
 
 ### Languages
