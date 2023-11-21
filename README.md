@@ -44,7 +44,7 @@
   ![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian)
 
 ### Firewall, WAF and Security tools
-  ![Citrix ADC](https://img.shields.io/badge/-Citrix%20ADC-333333?style=flat&)
+  ![NetScaler (Citrix ADC)](https://img.shields.io/badge/-NetScaler-333333?style=flat&)
   ![Checkpoint](https://img.shields.io/badge/-Checkpoint-333333?style=flat&)
   ![Fortigate](https://img.shields.io/badge/-Fortigate-333333?style=flat&)
   ![F5BigIP](https://img.shields.io/badge/-F5%20Big%20IP-333333?style=flat&)
