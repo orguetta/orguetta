@@ -7,7 +7,7 @@
 -  🤖 I love DIY projects 😁
 -  💬 Ask me about anything, I am happy to help 😄
 -  ⚡ Fun fact: I love connecting with different people 🙌
-- 📫 How to reach me in twitter
+- 📫 How to reach me in Linkedin
 
 ## Connect with me
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:or@guetta.tech)
