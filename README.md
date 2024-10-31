@@ -36,7 +36,8 @@
   ![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=Cloudflare)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
   ![Traefik](https://img.shields.io/badge/-Traefik-333333?style=flat&logo=traefikproxy)
-  ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)_
+  ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
+  ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
 
 ### Enviroment, IDEs and Tools
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
