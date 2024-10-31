@@ -3,7 +3,7 @@
 ## I'm a Cybersecurity & network engineer
 
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Cloud security and devsecops
+- 🌱 I’m currently learning Cloud security and DevSecOps
 -  🤖 I love DIY projects 😁
 -  💬 Ask me about anything, I am happy to help 😄
 -  ⚡ Fun fact: I love connecting with different people 🙌
@@ -14,6 +14,14 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/or1guetta)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orguetta/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Guetta_or)
+
+## My GitHub Stats
+
+![Orguetta's GitHub stats](https://github-readme-stats.vercel.app/api?username=orguetta&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orguetta&layout=compact&theme=radical)
 
 ## Tech Knowledge
 
