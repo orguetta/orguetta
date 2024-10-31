@@ -39,6 +39,8 @@
   ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
   ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
   ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
+  ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)
+  
 
 ### Enviroment, IDEs and Tools
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
