@@ -22,6 +22,7 @@
   ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
   ![Html5](https://img.shields.io/badge/-Html5-333333?style=flat&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+  ![Powershell](https://img.shields.io/badge/-Powershell-333333?style=flat&logo=powershell)
   
 ### Infrastructure and DevOps
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -40,6 +41,8 @@
   ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
   ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
   ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)
+  ![Authentik](https://img.shields.io/badge/-Authentik-333333?style=flat&logo=authentik)
+  
   
 
 ### Enviroment, IDEs and Tools
@@ -51,9 +54,9 @@
   ![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian)
 
 ### Firewall, WAF and Security tools
-  ![NetScaler (Citrix ADC)](https://img.shields.io/badge/-NetScaler-333333?style=flat&)
+  ![NetScaler (Citrix ADC)](https://img.shields.io/badge/-NetScaler-333333?style=flat&logo=citrix)
   ![Checkpoint](https://img.shields.io/badge/-Checkpoint-333333?style=flat&)
-  ![Fortigate](https://img.shields.io/badge/-Fortigate-333333?style=flat&)
+  ![Fortigate](https://img.shields.io/badge/-Fortigate-333333?style=flat&logo=fortinet)
   ![F5BigIP](https://img.shields.io/badge/-F5%20Big%20IP-333333?style=flat&logo=f5)
   ![CyberArk PAS](https://img.shields.io/badge/-CyberArk%20PAS-333333?style=flat&)
 
