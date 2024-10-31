@@ -54,7 +54,7 @@
   ![NetScaler (Citrix ADC)](https://img.shields.io/badge/-NetScaler-333333?style=flat&)
   ![Checkpoint](https://img.shields.io/badge/-Checkpoint-333333?style=flat&)
   ![Fortigate](https://img.shields.io/badge/-Fortigate-333333?style=flat&)
-  ![F5BigIP](https://img.shields.io/badge/-F5%20Big%20IP-333333?style=flat&)
+  ![F5BigIP](https://img.shields.io/badge/-F5%20Big%20IP-333333?style=flat&logo=f5)
   ![CyberArk PAS](https://img.shields.io/badge/-CyberArk%20PAS-333333?style=flat&)
 
 ### IoT
