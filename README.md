@@ -1,6 +1,6 @@
 # Hi, I'm Or Guetta
 
-## I'm a Cybersecurity & network engineer
+## I'm a CyberSecurity & network engineer
 
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Cloud security and DevSecOps
