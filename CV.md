@@ -25,7 +25,7 @@ Cybersecurity and IT infrastructure specialist with extensive experience in netw
 
 ### **Integrity Software** *(2022 – Present)*  
 **Senior Network & Cyber Security Engineer**  
-- Deployed and maintained Citrix NetScaler for multiple clients.  
+- Deployed and maintained  NetScaler ADC for multiple clients.  
 - Delivered advanced Web Security solutions, including WAF configurations.  
 - Implemented remote access solutions and identity authentication systems.  
 
@@ -76,5 +76,5 @@ Cybersecurity and IT infrastructure specialist with extensive experience in netw
 ## Additional Information
 
 - Active contributor to the cybersecurity and technology blog [Guetta’s CyberChronicles](https://blog.guetta.tech).  
-- Developer of **NetScaler Guardian**, an automation tool for Citrix Gateway security.  
+- Developer of **NetScaler Guardian**, an automation tool for NetScaler security.  
 - Certified in military and civilian security clearance.  
