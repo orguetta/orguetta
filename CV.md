@@ -75,6 +75,6 @@ Cybersecurity and IT infrastructure specialist with extensive experience in netw
 
 ## Additional Information
 
-- Active contributor to the cybersecurity and technology blog [Guetta’s CyberChronicles](https://blog.guetta.tech).  
+- Active contributor to the cybersecurity and technology blog [Guetta’s Tech & more](https://blog.guetta.tech).  
 - Developer of **NetScaler Guardian**, an automation tool for NetScaler security.  
 - Certified in military and civilian security clearance.  
