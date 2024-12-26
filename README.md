@@ -67,6 +67,8 @@
 ### My mini projects
   [![Linux permission calculator](https://img.shields.io/badge/-PermCalc-333333?style=flat&)](https://orguetta.github.io/PermCalc/)
   [![IP Subnet calculator](https://img.shields.io/badge/-IPSubCalc-333333?style=flat&)](https://orguetta.github.io/IPSubCalc/)
+  [![Linkwarden Telegram bot](https://img.shields.io/badge/-LinkwardenTeleBot-333333?style=flat&)](https://github.com/orguetta/linkwarden-telegram-bot)
+
 
   ## My GitHub Stats
 
