@@ -64,6 +64,10 @@
 ### IoT
   ![Raspberry PI](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=Raspberry%20Pi)
 
+### My mini projects
+  [![Linux permission calculator](https://img.shields.io/badge/-PermCalc-333333?style=flat&)](https://orguetta.github.io/PermCalc/)
+  [![IP Subnet calculator](https://img.shields.io/badge/-IPSubCalc-333333?style=flat&)](https://orguetta.github.io/IPSubCalc/)
+
   ## My GitHub Stats
 
 ![Orguetta's GitHub stats](https://github-readme-stats.vercel.app/api?username=orguetta&show_icons=true&theme=radical)
