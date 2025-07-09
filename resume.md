@@ -1,106 +1,82 @@
 ---
-margin-left: 2cm
-margin-right: 2cm
-margin-top: 1cm
-margin-bottom: 2cm
-title: Or Guetta - Cyber Security Engineer
-description-meta: 'Experienced Cyber Security and Infrastructure Engineer with hands-on expertise in IAM, cloud security, and enterprise systems.'
-keywords:
-  - 'CyberArk'
-  - 'NetScaler'
-  - 'AWS'
-  - 'Azure'
-  - 'Linux'
-  - 'DevSecOps'
-  - 'Terraform'
-  - 'Ansible'
-author:
-- Or Guetta
-subject: 'Cyber Security & Cloud Infrastructure Engineer'
----
 
-###### [[linkedin.com/in/orguetta](https://linkedin.com/in/orguetta)] · [or@guetta.tech](mailto:or@guetta.tech) · [+972-54-2407406](tel:+972542407406) · [github.com/orguetta](https://github.com/orguetta)
+## title: Or Guetta
 
-### Cyber Security and Infrastructure Engineer with 7+ years of experience in financial and tech environments. Specialized in identity and access management (IAM), secure remote access, web security solutions, and enterprise system integrations. Proven ability to lead cross-org projects with strong technical insight and interpersonal skills.
+<div style="text-align: center">
+[guetta.tech](https://guetta.tech) | [or@guetta.tech](mailto:or@guetta.tech) | [+972-54-2407406]  
+[LinkedIn](https://linkedin.com/in/orguetta) | [GitHub](https://github.com/orguetta)
+</div>
 
-## Skills
-
-```cybersecurity```
-```cloud infrastructure```
-```network engineering```
-```system administration```
-```DevSecOps```
-```automation```
-```IAM & SSO```
-```PKI```
-```containers```
-```monitoring```
-
-**Security & IAM**: CyberArk, NetScaler, FortiGate, OPSWAT, PKI, MDM  
-**Cloud & Infrastructure**: AWS, Azure, VMware, Hyper-V, Citrix, Docker, Kubernetes  
-**DevOps & Automation**: Terraform, Ansible, PowerShell, Python  
-**Enterprise Services**: AD, DNS, DHCP, Exchange, O365, SQL Server, IIS  
-**OS Expertise**: Windows Server 2003–2019, Linux (various distros)
+Senior cybersecurity and infrastructure engineer with 7+ years of experience in enterprise IT and security.
+Started with hands-on technical roles in the military and progressed into implementing complex IAM, PKI, and secure access solutions for high-scale organizations.
+Known for a practical mindset, strong communication, and leading end-to-end delivery across security projects.
 
 ## Experience
 
-### Senior Network & Cyber Security Engineer, Integrity Software  
-2022 - Present · Israel · Hybrid  
+**Senior Network & Cyber Security Engineer**
+Integrity Software | May 2022 – Present
 
-- Designed and implemented secure web access using NetScaler for enterprise clients  
-- Delivered remote access, SSO, and web application security solutions  
-- Led implementation of IAM systems across various environments  
-**Technologies used:** NetScaler, Citrix, PKI, AD, Web Access
+* Deployed and maintained NetScaler environments including Gateway, Load Balancing, and rewrite policies for customer web applications and SSO use cases
+* Integrated web security solutions, remote access, and authentication flows (MFA, LDAP, SAML) for enterprise customers
+* Delivered professional services to government and financial sectors, including documentation and knowledge transfer
 
-### Professional Services Engineer, Securenet  
-2021 - 2022 · Israel  
+**Professional Services Engineer**
+Securenet (AMAN Group) | Feb 2021 – May 2022
 
-- Delivered full lifecycle deployment of CyberArk Privileged Access solutions  
-- Deployed CyberArk Inter-Business Vault and configured PKI environments (Microsoft ADCS, EJBCA, DocuSign)  
-- Integrated SafeNet Trusted Access and performed OS hardening  
-**Technologies used:** CyberArk, PKI, SafeNet, Windows Server
+* Implemented CyberArk PAS solutions including CPV, Vault, and PSM modules for financial sector clients
+* Deployed CyberArk Inter-Business Vault and integrated external business access workflows
+* Delivered PKI implementations with Microsoft ADCS, EJBCA, and DocuSign
+* Integrated SafeNet Trusted Access (SSO) and performed system/server hardening across environments
 
-### System Administrator, Altshuler Shaham  
-2019 - 2020 · Israel  
+**System & Security Administrator**
+Altshuler Shaham | Aug 2019 – Dec 2020
 
-- Managed VMware environment with 600+ servers  
-- Deployed enterprise PKI infrastructure and hardened key systems  
-- Oversaw Citrix and AD environments, and integrated identity management systems  
-**Technologies used:** VMware, Citrix, Exchange, MDM, AD, PKI, PowerShell
+* Managed 600+ VMs using VMware; maintained Citrix and Exchange infrastructures
+* Built and secured enterprise PKI infrastructure from scratch; deployed MDM and IAM systems
+* Led AD upgrades and automated internal processes with PowerShell and group policy objects
 
-### System Administrator, EDP Group  
-2018 - 2019 · Israel  
+**System & Security Administrator**
+EDP Group | Mar 2018 – Aug 2019
 
-- Maintained computing infrastructure for multiple clients  
-- Deployed Priority ERP and performed MS SQL migrations  
-- Managed FortiGate firewall rules and remote access solutions  
-**Technologies used:** FortiGate, SQL Server, MS Terminal Services, Priority
+* Maintained IT environments across multiple clients, including Terminal Services and FortiGate firewalls (VPN, rules, VIPs)
+* Performed database migrations and deployed Priority ERP on MS-SQL environments
+* Supported Tier 2 issues for external IT teams
 
-### Communications & Helpdesk Team Lead, Israeli Air Force  
-2015 - 2018 · Israel  
+**IT & Communications Specialist**
+Israeli Air Force | Mar 2015 – Mar 2018
 
-- Led technical team in high-scale organizational projects  
-- Designed and enforced network security policies  
-- Provided 24/7 monitoring and support for operational networks  
-**Technologies used:** Network Security Tools, Cisco, Windows Server
+* Led a small technical team responsible for mission-critical communications systems
+* Participated in enterprise-grade implementation projects and network monitoring deployments
+* Authored and enforced cybersecurity policy within the unit; handled classified infrastructure
 
-## Military Service
+## Projects
 
-**IDF - Israeli Air Force**  
-2015–2018 · Classified role in IT & Communication Systems  
-- Military and civilian security clearance level: 02
+**NetScaler OAuth Client** – [GitHub Repo](https://github.com/orguetta/netscaler-oauth-client)
+Modular reverse proxy client for NetScaler Gateway that handles OAuth2 token validation via sidecar or middleware pattern.
+Built for secure app-layer authentication in modern SSO environments. Designed with extensibility and deployment flexibility in mind (Docker-ready).
 
-## Education & Certifications
+**Finely**
+AI-powered finance automation platform that parses Apple Wallet and SMS transactions, categorizes them via LLMs, and alerts users on spending behavior via Telegram.
+Architecture includes serverless APIs, Supabase backend, and JSON pipelines.
 
-- CyberArk PAS Course · 2021  
-- NetScaler Advanced Training · 2022  
-- DevSecOps Program · 2023–2024  
-- Switching & Routing · Israeli Air Force Unit · 2017  
-- Telecom & Data Comm Technician (Avnet Academy) · 2015  
+**GitHub Portfolio**
+Infrastructure and security scripts: NetScaler reverse proxy configs, Terraform + Ansible IaC, WAF rules, automation tools in Bash and PowerShell.
+
+## Skills
+
+`NetScaler` `CyberArk` `PKI` `SSO` `Terraform` `Ansible` `PowerShell` `AWS`
+`Azure` `Linux` `Citrix` `Cloudflare` `MDM` `DevSecOps` `Automation` `Monitoring`
+
+**Core strengths**: Delivery ownership, technical writing, internal enablement, and cross-team collaboration
+
+## Certifications
+
+* **CyberArk PAM Administration for Partners** – Self-paced
+* **CyberArk PAM Install & Configure** – Self-paced
+* **Citrix CCA – App Delivery & Security (CCA-AppDS)** – 2022
+* **DevSecOps Training (Bar-Ilan)** – Ongoing, 2023–2024
 
 ## Languages
 
-- Hebrew: Native  
-- English: Professional working proficiency  
-
-> *References and certificates available upon request.*
+* Hebrew – Native
+* English – Full Professional Proficiency
