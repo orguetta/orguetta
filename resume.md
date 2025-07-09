@@ -55,10 +55,6 @@ Israeli Air Force | Mar 2015 – Mar 2018
 Modular reverse proxy client for NetScaler Gateway that handles OAuth2 token validation via sidecar or middleware pattern.
 Built for secure app-layer authentication in modern SSO environments. Designed with extensibility and deployment flexibility in mind (Docker-ready).
 
-**Finely**
-AI-powered finance automation platform that parses Apple Wallet and SMS transactions, categorizes them via LLMs, and alerts users on spending behavior via Telegram.
-Architecture includes serverless APIs, Supabase backend, and JSON pipelines.
-
 **GitHub Portfolio**
 Infrastructure and security scripts: NetScaler reverse proxy configs, Terraform + Ansible IaC, WAF rules, automation tools in Bash and PowerShell.
 
