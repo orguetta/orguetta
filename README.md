@@ -69,8 +69,22 @@
   [![IP Subnet calculator](https://img.shields.io/badge/-IPSubCalc-333333?style=flat&)](https://orguetta.github.io/IPSubCalc/)
   [![Linkwarden Telegram bot](https://img.shields.io/badge/-LinkwardenTeleBot-333333?style=flat&)](https://github.com/orguetta/linkwarden-telegram-bot)
 
+## 📝 Latest Blog Posts
 
-  ## My GitHub Stats
+<!-- BLOG-LIST:START -->
+- [My Security and Privacy Stack – 2025](https://or.guetta.tech/posts/2025-12-30-my-security-and-privacy-stack-2025/)
+- [My Productivity and Automation Stack – 2025](https://or.guetta.tech/posts/2025-29-12-my-productivity-and-automation-stack-2025/)
+- [My Infrastructure Stack – 2025](https://or.guetta.tech/posts/2025-12-28-my-infrastructure-stack-2025/)
+- [My Personal Stack – 2025](https://or.guetta.tech/posts/my-personal-stack%E2%80%932025/)
+- [Open Source Library Scanning Tools You Can Use Today for Free](https://or.guetta.tech/posts/2025-11-26-open-source-library-scanning-tools-you-can-use-today-for-free/)
+<!-- BLOG-LIST:END -->
+
+## 🚀 Popular Repositories
+
+<!-- GITHUB-REPOS:START -->
+<!-- GITHUB-REPOS:END -->
+
+## My GitHub Stats
 
 ![Orguetta's GitHub stats](https://github-readme-stats.vercel.app/api?username=orguetta&show_icons=true&theme=radical)
 
