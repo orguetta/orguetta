@@ -4,12 +4,13 @@
 
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Cloud security and DevSecOps
--  🤖 I love DIY projects 😁
--  💬 Ask me about anything, I am happy to help 😄
--  ⚡ Fun fact: I love connecting with different people 🙌
+- 🤖 I love DIY projects 😁
+- 💬 Ask me about anything, I am happy to help 😄
+- ⚡ Fun fact: I love connecting with different people 🙌
 - 📫 How to reach me in Linkedin
 
 ## Connect with me
+
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:or@guetta.tech)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/or1guetta)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orguetta/)
@@ -18,80 +19,76 @@
 ## Tech Knowledge
 
 ### Languages
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
-  ![Html5](https://img.shields.io/badge/-Html5-333333?style=flat&logo=html5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-  ![Powershell](https://img.shields.io/badge/-Powershell-333333?style=flat&logo=powershell)
-  
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
+![Html5](https://img.shields.io/badge/-Html5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![Powershell](https://img.shields.io/badge/-Powershell-333333?style=flat&logo=powershell)
+
 ### Infrastructure and DevOps
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MSSQL](https://img.shields.io/badge/-MSSQL-333333?style=flat&logo=microsoft-sql-server)
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
-  ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
-  ![GitHub Actions](https://img.shields.io/badge/github%20actions-333333?style=flat&logo=githubactions&logoColor=white)
-  ![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache)
-  ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
-  ![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=Cloudflare)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
-  ![Traefik](https://img.shields.io/badge/-Traefik-333333?style=flat&logo=traefikproxy)
-  ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
-  ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
-  ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
-  ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)
-  ![Authentik](https://img.shields.io/badge/-Authentik-333333?style=flat&logo=authentik)
-  
-  
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MSSQL](https://img.shields.io/badge/-MSSQL-333333?style=flat&logo=microsoft-sql-server)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
+![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-333333?style=flat&logo=githubactions&logoColor=white)
+![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache)
+![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=Cloudflare)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
+![Traefik](https://img.shields.io/badge/-Traefik-333333?style=flat&logo=traefikproxy)
+![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
+![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
+![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
+![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)
+![Authentik](https://img.shields.io/badge/-Authentik-333333?style=flat&logo=authentik)
 
 ### Enviroment, IDEs and Tools
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  ![Windows](https://img.shields.io/badge/-Windows%2010-333333?style=flat&logo=windows)
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
-  ![Centos](https://img.shields.io/badge/-Centos-333333?style=flat&logo=centos)
-  ![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian)
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Windows](https://img.shields.io/badge/-Windows%2010-333333?style=flat&logo=windows)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
+![Centos](https://img.shields.io/badge/-Centos-333333?style=flat&logo=centos)
+![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian)
 
 ### Firewall, WAF and Security tools
-  ![NetScaler (Citrix ADC)](https://img.shields.io/badge/-NetScaler-333333?style=flat&logo=citrix)
-  ![Checkpoint](https://img.shields.io/badge/-Checkpoint-333333?style=flat&)
-  ![Fortigate](https://img.shields.io/badge/-Fortigate-333333?style=flat&logo=fortinet)
-  ![F5BigIP](https://img.shields.io/badge/-F5%20Big%20IP-333333?style=flat&logo=f5)
-  ![CyberArk PAS](https://img.shields.io/badge/-CyberArk%20PAS-333333?style=flat&)
+
+![NetScaler (Citrix ADC)](https://img.shields.io/badge/-NetScaler-333333?style=flat&logo=citrix)
+![Checkpoint](https://img.shields.io/badge/-Checkpoint-333333?style=flat&)
+![Fortigate](https://img.shields.io/badge/-Fortigate-333333?style=flat&logo=fortinet)
+![F5BigIP](https://img.shields.io/badge/-F5%20Big%20IP-333333?style=flat&logo=f5)
+![CyberArk PAS](https://img.shields.io/badge/-CyberArk%20PAS-333333?style=flat&)
 
 ### IoT
-  ![Raspberry PI](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=Raspberry%20Pi)
+
+![Raspberry PI](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=Raspberry%20Pi)
 
 ### My mini projects
-  [![Linux permission calculator](https://img.shields.io/badge/-PermCalc-333333?style=flat&)](https://orguetta.github.io/PermCalc/)
-  [![IP Subnet calculator](https://img.shields.io/badge/-IPSubCalc-333333?style=flat&)](https://orguetta.github.io/IPSubCalc/)
-  [![Linkwarden Telegram bot](https://img.shields.io/badge/-LinkwardenTeleBot-333333?style=flat&)](https://github.com/orguetta/linkwarden-telegram-bot)
+
+[![Linux permission calculator](https://img.shields.io/badge/-PermCalc-333333?style=flat&)](https://orguetta.github.io/PermCalc/)
+[![IP Subnet calculator](https://img.shields.io/badge/-IPSubCalc-333333?style=flat&)](https://orguetta.github.io/IPSubCalc/)
+[![Linkwarden Telegram bot](https://img.shields.io/badge/-LinkwardenTeleBot-333333?style=flat&)](https://github.com/orguetta/linkwarden-telegram-bot)
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-LIST:START -->
-- [My Security and Privacy Stack – 2025](https://or.guetta.tech/posts/2025-12-30-my-security-and-privacy-stack-2025/)
-- [My Productivity and Automation Stack – 2025](https://or.guetta.tech/posts/2025-29-12-my-productivity-and-automation-stack-2025/)
-- [My Infrastructure Stack – 2025](https://or.guetta.tech/posts/2025-12-28-my-infrastructure-stack-2025/)
-- [My Personal Stack – 2025](https://or.guetta.tech/posts/my-personal-stack%E2%80%932025/)
-- [Open Source Library Scanning Tools You Can Use Today for Free](https://or.guetta.tech/posts/2025-11-26-open-source-library-scanning-tools-you-can-use-today-for-free/)
-<!-- BLOG-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 🚀 Popular Repositories
 
 <!-- GITHUB-REPOS:START -->
+
+- [memos-backup](https://github.com/orguetta/memos-backup) - Export your Memos SQLite database to portable formats ![Python](https://img.shields.io/badge/Python-blue)
+- [orguetta.github.io](https://github.com/orguetta/orguetta.github.io) - No description ![Astro](https://img.shields.io/badge/Astro-blue)
+- [finely-cashflow](https://github.com/orguetta/finely-cashflow) - is a personal finance management web application that empowers users to track income and expenses, manage budgets, and gain insights into their spending habits. The application features a clean, user-friendly, mobile-first interface, emphasizing a monthly cash flow summary, budget vs. actual tracking, categorized expenses and income, and automatic ![HTML](https://img.shields.io/badge/HTML-blue)
+- [israeli-pension-xml-analyzer](https://github.com/orguetta/israeli-pension-xml-analyzer) - Client-side analyzer for Israeli pension XML files (Mimshak Achid format). Visualizes savings, fees, and investment tracks. Exports to PDF/CSV. ![HTML](https://img.shields.io/badge/HTML-blue)
+- [DiraWatcher](https://github.com/orguetta/DiraWatcher) - ניטור פרויקטים חדשים באתר דירה בהנחה ![Python](https://img.shields.io/badge/Python-blue)
 <!-- GITHUB-REPOS:END -->
-
-## My GitHub Stats
-
-![Orguetta's GitHub stats](https://github-readme-stats.vercel.app/api?username=orguetta&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orguetta&layout=compact&theme=radical)
-
 
 <!---
 orguetta/orguetta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
