@@ -1,82 +1,67 @@
-# Hi, I'm Or Guetta
+# Hi, I'm Or Guetta 👋
 
-## I'm a CyberSecurity & network engineer
+## DevSecOps Engineer | Cybersecurity & Networking | Open Source Builder
 
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Cloud security and DevSecOps
-- 🤖 I love DIY projects 😁
-- 💬 Ask me about anything, I am happy to help 😄
-- ⚡ Fun fact: I love connecting with different people 🙌
-- 📫 How to reach me in Linkedin
+I help teams build secure, reliable, and automated cloud platforms.
 
-## Connect with me
+- 🔐 6+ years of experience across cybersecurity, network engineering, and DevSecOps
+- ☁️ Focused on cloud security hardening and secure delivery pipelines
+- 🛠️ Building practical open source tools and sharing technical write-ups
+- 🤝 Always happy to LinkedIn security and platform teams
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:or@guetta.tech)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/or1guetta)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orguetta/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Guetta_or)
+## What I Focus On
 
-## Tech Knowledge
+- Cloud Security & Hardening
+- CI/CD Security (SAST, secrets, dependencies, policy checks)
+- Infrastructure as Code Security (Terraform, Ansible)
+- Practical automation for security and operations
+
+## Featured Projects
+
+- [netscaler-oauth-client](https://github.com/orguetta/netscaler-oauth-client) — OAuth integration for NetScaler/Citrix workflows
+- [linkwarden-telegram-bot](https://github.com/orguetta/linkwarden-telegram-bot) — Telegram bot integration for Linkwarden
+- [DiraWatcher](https://github.com/orguetta/DiraWatcher) — Monitoring/automation tooling project
+- [PermCalc](https://orguetta.github.io/PermCalc/) — Linux permissions calculator
+- [IPSubCalc](https://orguetta.github.io/IPSubCalc/) — IP subnet calculator
+
+## Tech Stack
 
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
-![Html5](https://img.shields.io/badge/-Html5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![Powershell](https://img.shields.io/badge/-Powershell-333333?style=flat&logo=powershell)
+![PowerShell](https://img.shields.io/badge/-PowerShell-333333?style=flat&logo=powershell)
 
-### Infrastructure and DevOps
+### Cloud, DevSecOps & Infrastructure
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MSSQL](https://img.shields.io/badge/-MSSQL-333333?style=flat&logo=microsoft-sql-server)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
-![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-333333?style=flat&logo=githubactions&logoColor=white)
-![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache)
-![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=Cloudflare)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
-![Traefik](https://img.shields.io/badge/-Traefik-333333?style=flat&logo=traefikproxy)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
 ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=cloudflare)
+![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
 ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)
-![Authentik](https://img.shields.io/badge/-Authentik-333333?style=flat&logo=authentik)
 
-### Enviroment, IDEs and Tools
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Windows](https://img.shields.io/badge/-Windows%2010-333333?style=flat&logo=windows)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
-![Centos](https://img.shields.io/badge/-Centos-333333?style=flat&logo=centos)
-![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian)
-
-### Firewall, WAF and Security tools
+### Security & Platforms
 
 ![NetScaler (Citrix ADC)](https://img.shields.io/badge/-NetScaler-333333?style=flat&logo=citrix)
-![Checkpoint](https://img.shields.io/badge/-Checkpoint-333333?style=flat&)
 ![Fortigate](https://img.shields.io/badge/-Fortigate-333333?style=flat&logo=fortinet)
-![F5BigIP](https://img.shields.io/badge/-F5%20Big%20IP-333333?style=flat&logo=f5)
-![CyberArk PAS](https://img.shields.io/badge/-CyberArk%20PAS-333333?style=flat&)
+![Authentik](https://img.shields.io/badge/-Authentik-333333?style=flat&logo=authentik)
 
-### IoT
+## Connect
 
-![Raspberry PI](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=Raspberry%20Pi)
+[![Blog](https://img.shields.io/badge/-Blog-333333?style=flat&logo=hashnode&logoColor=white)](https://or.guetta.tech)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orguetta/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:or@guetta.tech)
 
-### My mini projects
-
-[![Linux permission calculator](https://img.shields.io/badge/-PermCalc-333333?style=flat&)](https://orguetta.github.io/PermCalc/)
-[![IP Subnet calculator](https://img.shields.io/badge/-IPSubCalc-333333?style=flat&)](https://orguetta.github.io/IPSubCalc/)
-[![Linkwarden Telegram bot](https://img.shields.io/badge/-LinkwardenTeleBot-333333?style=flat&)](https://github.com/orguetta/linkwarden-telegram-bot)
-
-## 📝 Latest Blog Posts
+## 📝 Latest BlogPosts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [My Security and Privacy Stack – 2025](https://or.guetta.tech/posts/2025-12-30-my-security-and-privacy-stack-2025/)
 - [My Productivity and Automation Stack – 2025](https://or.guetta.tech/posts/2025-29-12-my-productivity-and-automation-stack-2025/)
 - [My Infrastructure Stack – 2025](https://or.guetta.tech/posts/2025-12-28-my-infrastructure-stack-2025/)
@@ -84,7 +69,6 @@
 - [Open Source Library Scanning Tools You Can Use Today for Free](https://or.guetta.tech/posts/2025-11-26-open-source-library-scanning-tools-you-can-use-today-for-free/)
 <!-- BLOG-POST-LIST:END -->
 
-<!---
-orguetta/orguetta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+💬 If you're hiring for DevSecOps / Cloud Security roles or want to collaborate on security-focused open source projects, let's connect.
