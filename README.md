@@ -77,23 +77,8 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [My Security and Privacy Stack – 2025](https://or.guetta.tech/posts/2025-12-30-my-security-and-privacy-stack-2025/)
-- [My Productivity and Automation Stack – 2025](https://or.guetta.tech/posts/2025-29-12-my-productivity-and-automation-stack-2025/)
-- [My Infrastructure Stack – 2025](https://or.guetta.tech/posts/2025-12-28-my-infrastructure-stack-2025/)
-- [My Personal Stack – 2025](https://or.guetta.tech/posts/my-personal-stack%E2%80%932025/)
-- [Open Source Library Scanning Tools You Can Use Today for Free](https://or.guetta.tech/posts/2025-11-26-open-source-library-scanning-tools-you-can-use-today-for-free/)
+
 <!-- BLOG-POST-LIST:END -->
-
-## 🚀 Popular Repositories
-
-<!-- GITHUB-REPOS:START -->
-
-- [memos-backup](https://github.com/orguetta/memos-backup) - Export your Memos SQLite database to portable formats ![Python](https://img.shields.io/badge/Python-blue)
-- [orguetta.github.io](https://github.com/orguetta/orguetta.github.io) - No description ![Astro](https://img.shields.io/badge/Astro-blue)
-- [finely-cashflow](https://github.com/orguetta/finely-cashflow) - is a personal finance management web application that empowers users to track income and expenses, manage budgets, and gain insights into their spending habits. The application features a clean, user-friendly, mobile-first interface, emphasizing a monthly cash flow summary, budget vs. actual tracking, categorized expenses and income, and automatic ![HTML](https://img.shields.io/badge/HTML-blue)
-- [israeli-pension-xml-analyzer](https://github.com/orguetta/israeli-pension-xml-analyzer) - Client-side analyzer for Israeli pension XML files (Mimshak Achid format). Visualizes savings, fees, and investment tracks. Exports to PDF/CSV. ![HTML](https://img.shields.io/badge/HTML-blue)
-- [DiraWatcher](https://github.com/orguetta/DiraWatcher) - ניטור פרויקטים חדשים באתר דירה בהנחה ![Python](https://img.shields.io/badge/Python-blue)
-<!-- GITHUB-REPOS:END -->
 
 <!---
 orguetta/orguetta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
