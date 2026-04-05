@@ -61,12 +61,11 @@ I help teams build secure, reliable, and automated cloud platforms.
 ## 📝 Latest BlogPosts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [JWT Explained Simply](https://or.guetta.tech/posts/jwt-complete-guide/)
 - [My Security and Privacy Stack – 2025](https://or.guetta.tech/posts/2025-12-30-my-security-and-privacy-stack-2025/)
 - [My Productivity and Automation Stack – 2025](https://or.guetta.tech/posts/2025-29-12-my-productivity-and-automation-stack-2025/)
 - [My Infrastructure Stack – 2025](https://or.guetta.tech/posts/2025-12-28-my-infrastructure-stack-2025/)
 - [My Personal Stack – 2025](https://or.guetta.tech/posts/my-personal-stack%E2%80%932025/)
-- [Open Source Library Scanning Tools You Can Use Today for Free](https://or.guetta.tech/posts/2025-11-26-open-source-library-scanning-tools-you-can-use-today-for-free/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
